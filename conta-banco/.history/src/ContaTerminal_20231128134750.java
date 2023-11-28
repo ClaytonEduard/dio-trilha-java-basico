@@ -10,6 +10,7 @@ public class ContaTerminal {
         String agencia;
         String nomeCliente;
         double saldo;
+        String mensagem;
 
         // * Exibir as mensagens para o nosso usuário
         // * Obter pela scanner os balores digitados no terminal
@@ -27,6 +28,8 @@ public class ContaTerminal {
         saldo = scanner.nextDouble();
 
         // * Exibir a mensagem conta criada
+
+        System.out.println(mensagem);
 
         System.out.println("Óla " + nomeCliente +
                 ", obrigado por criar uma conta em nosso banco, sua agência é "

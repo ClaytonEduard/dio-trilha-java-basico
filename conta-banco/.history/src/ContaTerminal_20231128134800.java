@@ -10,6 +10,7 @@ public class ContaTerminal {
         String agencia;
         String nomeCliente;
         double saldo;
+        String mensagem;
 
         // * Exibir as mensagens para o nosso usuário
         // * Obter pela scanner os balores digitados no terminal

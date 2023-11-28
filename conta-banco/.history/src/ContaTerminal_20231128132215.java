@@ -6,6 +6,7 @@ public class ContaTerminal {
 
         // TODO: Conhecer e importar a classe Scanner
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
+
         int numero;
         String agencia;
         String nomeCliente;
@@ -28,10 +29,8 @@ public class ContaTerminal {
 
         // * Exibir a mensagem conta criada
 
-        System.out.println("Óla " + nomeCliente +
-                ", obrigado por criar uma conta em nosso banco, sua agência é "
-                + agencia + ", conta " + numero + " e seu saldo R$ " + saldo
-                + " já está disponível para saque.");
+        System.out.println("Óla " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é "
+                + agencia + ", conta " + numero + " e seu saldo R$" + saldo + " já está disponível para saque.");
 
     }
 }

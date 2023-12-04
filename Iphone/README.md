@@ -1,18 +1,11 @@
-## Getting Started
+## Desafio IPHONE
+Abaixo o link do desafio proposto pela DIO)- (https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Implementar um conceito de POO para com o funcionamento de um aparelho, desenhando o diagrama das entidades de classes e suas conexões.
 
-## Folder Structure
+## Diagrama
+![iphone](https://github.com/ClaytonEduard/dio-trilha-java-basico/assets/11823640/e50c0b3f-0fdc-449f-af98-e224e804584b)
 
-The workspace contains two folders by default, where:
+## Resultado
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![image](https://github.com/ClaytonEduard/dio-trilha-java-basico/assets/11823640/811b3930-ba0b-47f4-b36b-a7f7794679f7)
